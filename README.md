@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/VelinIliev)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/VelinIliev/01-stats-preview-card-component-main)
+- Live Site URL: [Add live site URL here](https://veliniliev.github.io/01-stats-preview-card-component-main/)
 
 ## My process
 
