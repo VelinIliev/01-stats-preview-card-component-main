@@ -21,9 +21,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [https://veliniliev.github.io/stats-preview-card-component-main/](https://veliniliev.github.io/stats-preview-card-component-main/)  
-and 
-[http://drumbi.eu/03-FrontendMentor/01-stats-preview-card-component-main/](http://drumbi.eu/03-FrontendMentor/01-stats-preview-card-component-main/)  
+- Live Site URL: [http://drumbi.eu/03-FrontendMentor/01-stats-preview-card-component-main/](http://drumbi.eu/03-FrontendMentor/01-stats-preview-card-component-main/)  
 
 ## My process
 
