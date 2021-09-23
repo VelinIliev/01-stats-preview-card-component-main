@@ -6,10 +6,10 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
+- [Screenshot](#screenshot)
 
 ## Overview
 
@@ -19,15 +19,11 @@ Users should be able to:
 
 - View the optimal layout depending on their device's screen size
 
-### Screenshot
-
-![](./screenShot/ScreenShot.jpg)
-
-
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/VelinIliev/01-stats-preview-card-component-main)
-- Live Site URL: [Add live site URL here](https://veliniliev.github.io/01-stats-preview-card-component-main/)
+- Live Site URL: [https://veliniliev.github.io/stats-preview-card-component-main/](https://veliniliev.github.io/stats-preview-card-component-main/)  
+and 
+[http://drumbi.eu/03-FrontendMentor/01-stats-preview-card-component-main/](http://drumbi.eu/03-FrontendMentor/01-stats-preview-card-component-main/)  
 
 ## My process
 
@@ -37,5 +33,8 @@ Users should be able to:
 - Desktop-first workflow
 
 
+## Screenshot
+
+![](./screenShot/statsPreviewCard.jpg)
 
 
